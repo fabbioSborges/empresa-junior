@@ -252,7 +252,7 @@ main {
 }
 
 #home .image::before {
-  content: "Elemento extra";
+  content: "";
   height: 100%;
   width: 100%;
   background: var(--base-color-second);
